@@ -13,6 +13,6 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- ### ⚡ **博客:**
+- ### ⚡ **博客：**
 
   [杨雨翔的博客小站](https://www.yangyuxiang.top/)
