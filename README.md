@@ -1,4 +1,4 @@
-## 欢迎来到我的主页 :wave:
+## 关于我 :wave:
 
 <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=gezhicui&show_icons=true">
 
